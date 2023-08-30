@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-If you take [issue][issues] with any [issues][issues]
-I [issued][issues], grab a tissue.
-
-If you find a bug, please report an [issue][issues], or better yet,
-fix it and submit a [pull request][pulls].
+Hey, I’m Ryan and I’m a **technical artist** aiming to break into the games industry! I specialize in **shaders** but have also worked as a 3D generalist.
 
   [issues]:    https://github.com/grantwinney/BlogCodeSamples/issues
   [pulls]:     https://github.com/grantwinney/BlogCodeSamples/pulls
