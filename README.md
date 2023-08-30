@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 Hey, I’m Ryan and I’m a **technical artist** aiming to break into the games industry.
 I specialize in **shaders** but have also worked as a 3D generalist.
