@@ -8,9 +8,6 @@ I specialize in **shaders** but have also worked as a 3D generalist.
 <!-- Badge Section -->
 ![Unreal]({https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white})
 
-![Unity]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white})
-
-
 <!--
   [issues]:    https://github.com/grantwinney/BlogCodeSamples/issues
   [pulls]:     https://github.com/grantwinney/BlogCodeSamples/pulls
