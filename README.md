@@ -6,7 +6,7 @@ Hey, I’m Ryan and I’m a **technical artist** aiming to break into the games 
   [pulls]:     https://github.com/grantwinney/BlogCodeSamples/pulls
 
 ![test]({img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white})
-!\[alt text\](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+!\[alt text\]({https://img.shields.io/badge/just%20the%20message-8A2BE2})
 <!--
 <img src="{https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white}" />
 !(https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
