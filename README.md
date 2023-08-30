@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-<!-- Badge Section -->
 ![Unreal]({https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white})
 
 Hey, I’m Ryan and I’m a **technical artist** aiming to break into the games industry.
