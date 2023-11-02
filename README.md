@@ -4,7 +4,7 @@
 
 Hey, I’m Ryan and I’m a **technical artist** aiming to break into the games industry.
 </br>
-I'm gearing up to specialize in **shaders** but have also worked as a 3D generalist.
+I'm gearing up to specialize in **shaders** and **tools** but have also worked as a 3D generalist.
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanalexdavis/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://dataisgone.itch.io/)
